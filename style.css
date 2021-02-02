@@ -1,0 +1,21 @@
+
+.cartao_visitas {
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    border: solid 2px black;
+    background-image: url("./backgorund.png");
+    background-repeat: round;
+}
+
+#insta_logo {
+    list-style-image: url("./Insta.png");
+}
+
+#twitter_logo {
+    list-style-image: url("./Twitter.png");
+}
+
+#youtube_logo {
+    list-style-image: url("./Youtube.png");
+}
